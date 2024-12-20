@@ -1,10 +1,10 @@
-package lastassignment;
+package allException;
 
 // This program demonstrates handling division by zero.
 // Imports the Scanner class for user input.
 import java.util.Scanner;
 
-public class ArithmeticExceptionExample {
+public class ArithmeticEx {
     public static void main(String[] args) {
         // Creates a Scanner object for reading input.
         Scanner scanner = new Scanner(System.in);

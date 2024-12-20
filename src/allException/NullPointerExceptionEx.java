@@ -1,10 +1,10 @@
 
-package lastassignment;
+package allException;
 // This program demonstrates handling a NullPointerException.
 // Imports the Scanner class for user input.
 import java.util.Scanner;
 
-public class NullPointerExceptionExample {
+public class NullPointerExceptionEx {
     public static void main(String[] args) {
         // Creates a Scanner object for reading input.
         Scanner scanner = new Scanner(System.in);

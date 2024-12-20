@@ -1,9 +1,9 @@
 
-package lastassignment;
+package allException;
 // Demonstrates handling a ClassNotFoundException with user input for a class name.
 import java.util.Scanner; // Required for user input.
 
-public class ClassNotFoundExceptionExample {
+public class ClassNotFoundExceptionEx {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // Creates a Scanner object for user input.
         boolean classLoaded = false; // Tracks if the class is successfully loaded.

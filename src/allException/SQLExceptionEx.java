@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lastassignment;
+package allException;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -12,7 +12,7 @@ import java.io.InputStreamReader;
 import java.sql.*; // Required for database operations.
 import java.util.Scanner; // Required for user input.
 
-public class SQLExceptionExample {
+public class SQLExceptionEx {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // Creates a Scanner object for user input.
         Connection conn = null; // Initializes the database connection.

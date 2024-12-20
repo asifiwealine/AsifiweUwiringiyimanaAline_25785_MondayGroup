@@ -1,12 +1,12 @@
 
-package lastassignment;
+package allException;
 
 
 // Demonstrates handling an EOFException when reading a file until the end.
 import java.io.*; // Required for file input/output operations.
 import java.util.Scanner; // Required for user input.
 
-public class EOFExceptionExample {
+public class EOFExceptionEg {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // Creates a Scanner object for user input.
         DataInputStream dis = null; // Initializes DataInputStream.

@@ -1,11 +1,11 @@
 
-package lastassignment;
+package allException;
 
 // Demonstrates handling an IOException with user input for the file name.
 import java.io.*; // Required for file input/output operations.
 import java.util.Scanner; // Required for user input.
 
-public class IOExceptionExample {
+public class IOExceptionEx {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // Creates a Scanner object for user input.
         BufferedReader reader = null; // Initializes BufferedReader.

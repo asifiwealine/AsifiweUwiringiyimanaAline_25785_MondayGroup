@@ -1,9 +1,9 @@
 
-package lastassignment;
+package allException;
 
 // This program demonstrates handling an IllegalArgumentException.
 
-public class IllegalArgumentExceptionExample {
+public class IllegalArgumentExample {
     public static void main(String[] args) {
         while (true) {
             try {

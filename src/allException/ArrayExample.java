@@ -1,10 +1,10 @@
 
-package lastassignment;
+package allException;
 
 // This program demonstrates handling an ArrayIndexOutOfBoundsException.
 import java.util.Scanner;
 
-public class ArrayIndexOutOfBoundsExceptionExample {
+public class ArrayExample {
     public static void main(String[] args) {
         // Creates an array of integers with predefined values.
         int[] numbers = {1, 2, 3};

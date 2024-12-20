@@ -1,9 +1,9 @@
 
-package lastassignment;
+package allException;
 
 // This program demonstrates handling a ClassCastException.
 
-public class ClassCastExceptionExample {
+public class ClassCastExceptionEx {
     public static void main(String[] args) {
         try {
             // Declares an object of type String.

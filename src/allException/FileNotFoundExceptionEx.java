@@ -1,11 +1,11 @@
 
-package lastassignment;
+package allException;
 
 // Demonstrates handling a FileNotFoundException with user input for the file name.
 import java.io.*; // Required for file input/output operations.
 import java.util.Scanner; // Required for user input.
 
-public class FileNotFoundExceptionExample {
+public class FileNotFoundExceptionEx {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // Creates a Scanner object for user input.
         FileReader file = null; // Initializes FileReader.

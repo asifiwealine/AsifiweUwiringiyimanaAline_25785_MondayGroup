@@ -1,11 +1,11 @@
 
-package lastassignment;
+package allException;
 
 // This program demonstrates handling a NumberFormatException.
 // Imports the Scanner class for user input.
 import java.util.Scanner;
 
-public class NumberFormatExceptionExample {
+public class NumberFormatExceptionE {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         while (true) {
